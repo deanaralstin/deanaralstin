@@ -1,0 +1,44 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://www.google.com/url?q=chrome-native://newtab/%3Forigin%3Dweb-feed&usg=AOvVaw3K8cWd03RQksxsqH2-Ezdx&hl=en_US
+Subject: Redirect Notice
+Date: Sat, 15 Oct 2022 02:10:20 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--u8TVwZawd5yEcgogFCGWgFt4rV9bUg0ptwKJsnoMyi----"
+
+
+------MultipartBoundary--u8TVwZawd5yEcgogFCGWgFt4rV9bUg0ptwKJsnoMyi----
+Content-Type: text/html
+Content-ID: <frame-835F484171B6BBEE56F26934D07E1C89@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: https://www.google.com/url?q=chrome-native://newtab/%3Forigin%3Dweb-feed&usg=AOvVaw3K8cWd03RQksxsqH2-Ezdx&hl=en_US
+
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><link rel="stylesheet" type="text/css" href="cid:css-034f3c4d-5654-424d-8312-27e33dc7bcdf@mhtml.blink" /><title>Redirect Notice</title></head><body><div class="mymGo"><div class="aXgaGb"><font style="font-size:larger"><b>Redirect Notice</b></font></div></div><div class="fTk7vd">&nbsp;The previous page is sending you to an invalid url.<br><br>&nbsp;If you do not want to visit that page, you can <a href="https://www.google.com/url?q=chrome-native://newtab/%3Forigin%3Dweb-feed&amp;usg=AOvVaw3K8cWd03RQksxsqH2-Ezdx&amp;hl=en_US#" id="tsuid_1">return to the previous page</a>.<br><br><br></div></body></html>
+------MultipartBoundary--u8TVwZawd5yEcgogFCGWgFt4rV9bUg0ptwKJsnoMyi----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-034f3c4d-5654-424d-8312-27e33dc7bcdf@mhtml.blink
+
+@charset "utf-8";
+
+body, div, a { font-family: Roboto, arial, sans-serif; }
+
+body { background-color: rgb(255, 255, 255); margin-top: 3px; }
+
+div { color: rgb(0, 0, 0); }
+
+a:link { color: rgb(104, 29, 168); }
+
+a:visited { color: rgb(104, 29, 168); }
+
+a:active { color: rgb(234, 67, 53); }
+
+div.mymGo { border-top: 1px solid rgb(218, 220, 224); border-bottom: 1px solid rgb(218, 220, 224); background: rgb(248, 249, 250); margin-top: 1em; width: 100%; }
+
+div.aXgaGb { padding: 0.5em 0px; margin-left: 10px; }
+
+div.fTk7vd { margin-left: 35px; margin-top: 35px; }
+
+span.fZSzqb { color: rgb(234, 67, 53); }
+------MultipartBoundary--u8TVwZawd5yEcgogFCGWgFt4rV9bUg0ptwKJsnoMyi------
